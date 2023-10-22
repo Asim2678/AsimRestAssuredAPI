@@ -21,4 +21,5 @@ public class LibReqResData {
 //    public void setStrName(String strName){
 //        this.strName=strName;
 //    }
+
 }
